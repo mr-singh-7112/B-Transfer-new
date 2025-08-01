@@ -1,0 +1,21 @@
+# Core dependencies for secure file handling
+cryptography==41.0.3
+Flask==2.3.3
+Werkzeug==2.3.7
+
+# Additional dependencies for enhanced functionality
+# Note: These are built-in Python modules, but listed for documentation
+# - gzip (built-in)
+# - sqlite3 (built-in)
+# - threading (built-in)
+# - hashlib (built-in)
+# - base64 (built-in)
+# - secrets (built-in)
+# - uuid (built-in)
+# - datetime (built-in)
+# - os (built-in)
+# - json (built-in)
+# - socket (built-in)
+# - time (built-in)
+# - shutil (built-in)
+# - tempfile (built-in) 
